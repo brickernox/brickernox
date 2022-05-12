@@ -1,5 +1,5 @@
-#### My brother and I are web designers who collaborate to create new and ambitious projects together with the aim of innovating and improving with each work done
-#### we want every business to have a secure place on the internet
+#### My brother and I are web designers who collaborate to create new and ambitious projects together with the aim of innovating and improving with each work done.
+#### We want every business to have a secure place on the internet.
 
 ![c#](https://img.shields.io/badge/C%20Sharp-7f1ee6?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20studio%20code-44adfc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
