@@ -14,6 +14,7 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-ff961f?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-1063F5?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Premiere](https://img.shields.io/badge/premiere-BB1CC8?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-dced44?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **brickernox/brickernox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
